@@ -148,10 +148,9 @@ img.rulebook-body-image-centre-tile{display: block; margin-left: auto; margin-ri
 
     .house-rules-book, .the-crew, #available{display: none;}
     .trailer-laurels img{width: 100%;}
-    .header-background{width: 100%; margin: 0px; min-height:600px; background: #0f0; position: relative; overflow: auto; background: url('images/header_background.jpg') center -200px no-repeat; background-size: 200vh;}
+    .header-background{width: 100%; margin: 0px; min-height:600px; background: #0f0; position: relative; overflow: auto; background: url('img/header.jpg') center -50px no-repeat; background-size: 200vh;}
     #trailer-frame{width: 100%;}
-    .header-grid .menu .menu-item{display: none;}
-    .header-grid .menu{display: grid; grid-template-columns: auto}
+    .header-grid .menu{display: grid; grid-template-columns: 0% 0% auto auto auto 0% 0%}
     .header-grid .banner{background: url('images/header_banner_mobile.png') top center;}
     .header-grid .banner .banner-text{width: 86vw; margin-top: 340px; left: calc(50% - 43vw); right: auto; bottom: auto;}
     .features-grid {grid-template-columns: auto;grid-gap: 30px;padding: 0px 50px;}
