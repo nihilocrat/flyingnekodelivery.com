@@ -2,7 +2,7 @@ $('document').ready(function(){
 
     $('div.trailer').click(function(){
         $('#trailer-frame').removeClass("hidden");
-        $('#trailer-frame').attr('src', "https://www.youtube.com/embed/7Fhq2CmXeyk?rel=0&autoplay=1");
+        $('#trailer-frame').attr('src', "https://www.youtube.com/embed/-Z2Hm-YxDkc?rel=0&autoplay=1");
         $('div.trailer').animate({
             "height": "619px"
             },2000);
